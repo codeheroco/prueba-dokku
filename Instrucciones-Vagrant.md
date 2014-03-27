@@ -34,7 +34,7 @@ Host servidordokku
 Clonamos este repositorio y levantamos nuestro ambiente invitado de Vagrant ejecutando `vagrant up` en este directorio.
 
 En este repositorio se encuentra un `Vagrantfile` que le indicará a Vagrant la configuración necesaria para instalar Dokku y configurar gran parte de lo que hicimos manualmente en la entrada del blog.
-Esto puede tardar varios minutos la primera vez ya que Vagrant debe construir el ambiente y descargar Dokku.
+Esto puede tardar varios minutos la primera vez ya que Vagrant debe descargar la *caja* del Ubuntu 12.04 LTS 64bit, construir el ambiente y descargar Dokku.
 
 ## Paso 4
 
